@@ -14,7 +14,7 @@ require (
 	github.com/docker/go-units v0.3.3 // indirect
 	github.com/gin-contrib/pprof v1.2.0
 	github.com/gin-gonic/contrib v0.0.0-20180614032058-39cfb9727134
-	github.com/gin-gonic/gin v1.7.1
+	github.com/gin-gonic/gin v1.7.7
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/gotestyourself/gotestyourself v2.2.0+incompatible // indirect
