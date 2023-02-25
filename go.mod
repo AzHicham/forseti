@@ -37,7 +37,7 @@ require (
 	github.com/stretchr/testify v1.5.1
 	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
 	golang.org/x/net v0.0.0-20210902165921-8d991716f632 // indirect
-	golang.org/x/sys v0.0.0-20210902050250-f475640dd07b // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/term v0.0.0-20210317153231-de623e64d2a6 // indirect
 	golang.org/x/text v0.3.7
 	google.golang.org/protobuf v1.27.1
