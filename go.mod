@@ -14,7 +14,7 @@ require (
 	github.com/docker/go-units v0.3.3 // indirect
 	github.com/gin-contrib/pprof v1.2.0
 	github.com/gin-gonic/contrib v0.0.0-20180614032058-39cfb9727134
-	github.com/gin-gonic/gin v1.7.1
+	github.com/gin-gonic/gin v1.9.0
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/gotestyourself/gotestyourself v2.2.0+incompatible // indirect
@@ -34,12 +34,10 @@ require (
 	github.com/sirupsen/logrus v1.7.0
 	github.com/spf13/pflag v1.0.3
 	github.com/spf13/viper v1.2.1
-	github.com/stretchr/testify v1.5.1
-	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
-	golang.org/x/net v0.0.0-20210902165921-8d991716f632 // indirect
-	golang.org/x/sys v0.0.0-20210902050250-f475640dd07b // indirect
-	golang.org/x/term v0.0.0-20210317153231-de623e64d2a6 // indirect
-	golang.org/x/text v0.3.7
-	google.golang.org/protobuf v1.27.1
+	github.com/stretchr/testify v1.8.1
+	golang.org/x/crypto v0.5.0
+	golang.org/x/text v0.7.0
+	google.golang.org/protobuf v1.28.1
+	gopkg.in/yaml.v2 v2.2.8 // indirect
 	gotest.tools v2.2.0+incompatible // indirect
 )
